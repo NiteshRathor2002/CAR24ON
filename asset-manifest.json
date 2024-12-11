@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/CAR24ON/static/css/main.dd9a8e4d.css",
+    "main.js": "/CAR24ON/static/js/main.82575365.js",
+    "static/js/453.656b21da.chunk.js": "/CAR24ON/static/js/453.656b21da.chunk.js",
+    "static/media/img3.png": "/CAR24ON/static/media/img3.5a18f1702d829e92845d.png",
+    "static/media/img2.jpg": "/CAR24ON/static/media/img2.94bee1e1a076f0407a90.jpg",
+    "static/media/bootstrap-icons.woff?": "/CAR24ON/static/media/bootstrap-icons.39795c0b4513de014cf8.woff",
+    "static/media/homepage.jpg": "/CAR24ON/static/media/homepage.6fefd5bfa5434109124b.jpg",
+    "static/media/bootstrap-icons.woff2?": "/CAR24ON/static/media/bootstrap-icons.b7bcc075b395c14ce8c2.woff2",
+    "static/media/logo.png": "/CAR24ON/static/media/logo.4a4eb7c931ac2fd175e7.png",
+    "static/media/client.png": "/CAR24ON/static/media/client.377762057016247acce3.png",
+    "static/media/img4.jpg": "/CAR24ON/static/media/img4.e27c597f32ed18f4d7f7.jpg",
+    "static/media/toyoto.png": "/CAR24ON/static/media/toyoto.b11f81de13f08598307e.png",
+    "index.html": "/CAR24ON/index.html",
+    "main.dd9a8e4d.css.map": "/CAR24ON/static/css/main.dd9a8e4d.css.map",
+    "main.82575365.js.map": "/CAR24ON/static/js/main.82575365.js.map",
+    "453.656b21da.chunk.js.map": "/CAR24ON/static/js/453.656b21da.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dd9a8e4d.css",
+    "static/js/main.82575365.js"
+  ]
+}
