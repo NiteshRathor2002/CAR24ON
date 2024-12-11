@@ -1,0 +1,95 @@
+ [
+     {
+      "id": 1,
+       "name": "Toyota Corolla",
+       "price": 20000,
+       "mileage": 30,
+       "model": "2024",
+       "color": "Red",
+       "image": "https://file.kelleybluebookimages.com/kbb/base/evox/CP/12892/2019-Toyota-Corolla-front_12892_032_1811x781_3R3_cropped.png",
+       "ac": "Yes"
+     },
+     {
+      "id": 2,
+       "name": "Honda Civic",
+       "price": 22000,
+       "mileage": 32,
+       "model": "2023",
+       "color": "Blue",
+       "image": "https://s3.amazonaws.com/di-honda-enrollment/2019-civic-si-sedan/model-image-2019-civic-si-sedan-front.png",
+       "ac": "No"
+     },
+     {
+      "id": 3,
+       "name": "Ford Mustang",
+       "price": 35000,
+       "mileage": 20,
+       "model": "2023",
+       "color": "Black",
+       "image": "https://images.carprices.com/pricebooks_data/usa/colorized/2023/Ford/View2/Mustang/GT_Premium/P8C_G1.png",
+       "ac": "Yes"
+     },
+     {
+      "id": 4,
+       "name": "Chevrolet Malibu",
+       "price": 24000,
+       "mileage": 28,
+       "model": "2022",
+       "color": "White",
+       "image": "https://file.kelleybluebookimages.com/kbb/base/evox/CP/14792/2022-Chevrolet-Malibu-front_14792_032_1824x751_GAZ_cropped.png",
+       "ac": "Yes"
+     },
+     {
+      "id": 5,
+       "name": "Nissan Altima",
+       "price": 23000,
+       "mileage": 27,
+       "model": "2024",
+       "color": "Silver",
+       "image": "http://www.autoasesor.com/nissan/imagenes/altima.png",
+       "ac": "Yes"
+     },
+     {
+      "id": 6,
+       "name": "BMW 3 Series",
+       "price": 45000,
+       "mileage": 25,
+       "model": "2023",
+       "color": "Gray",
+       "image": "https://s3.us-east-2.amazonaws.com/dealer-inspire-vps-vehicle-images/stock-images/thumbnails/large/chrome/0b0c7d9036cfc158f208529f7d9d1daa.png",
+       "ac": "Yes"
+     },
+     {
+      "id": 7,
+       "name": "Audi A4",
+       "price": 50000,
+       "mileage": 23,
+       "model": "2023",
+       "color": "Black",
+       "image": "https://www.motortrend.com/uploads/sites/10/2015/11/2013-audi-a4-2-tdi-sedan-angular-front.png",
+       "ac": "Yes"
+     },
+     
+     {
+      "id": 8,
+       "name": "Hyundai Sonata",
+       "price": 27000,
+       "mileage": 30,
+       "model": "2023",
+       "color": "Red",
+       "image": "https://di-uploads-pod28.dealerinspire.com/bentleyhyundai/uploads/2020/02/2020-sonata-sel.png",
+       "ac": "Yes"
+     },
+     {
+      "id": 9,
+       "name": "Kia Optima",
+       "price": 25000,
+       "mileage": 29,
+       "model": "2022",
+       "color": "Green",
+       "image": "https://di-enrollment-api.s3.amazonaws.com/hyundai/models/2023/venue/colors/Green-Apple.png",
+       "ac": "No"
+     }
+ ]
+ 
+ 

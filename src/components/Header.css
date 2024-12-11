@@ -1,0 +1,17 @@
+.logo{
+  height:60px;
+  width:60px;
+  background-blend-mode: color-burn;
+}
+.nav-item{
+    font-weight: 400px;
+}
+.nav-item:hover{
+  font-weight: 600;
+}
+@media screen and (max-width:420px) {
+  .call{
+    font-size: 15.5px;
+    
+  }
+}

@@ -1,0 +1,85 @@
+[
+    {
+     "id": 1,
+      "name": "Toyota Corolla",
+      "price": 20 ,
+      "mileage": 30,
+      "model": "2024",
+      "color": "Red",
+      "image": "https://file.kelleybluebookimages.com/kbb/base/evox/CP/12892/2019-Toyota-Corolla-front_12892_032_1811x781_3R3_cropped.png",
+      "ac": "Yes"
+    },
+    {
+     "id": 2,
+      "name": "Honda Civic",
+      "price": 22,
+      "mileage": 32,
+      "model": "2023",
+      "color": "Blue",
+      "image": "https://www.pngplay.com/wp-content/uploads/13/Honda-Civic-Type-R-PNG-Photos.png",
+      "ac": "No"
+    },
+    {
+     "id": 3,
+      "name": "Ford Mustang",
+      "price": 35,
+      "mileage": 20,
+      "model": "2023",
+      "color": "Black",
+      "image": "https://images.carprices.com/pricebooks_data/usa/colorized/2023/Ford/View2/Mustang/GT_Premium/P8C_G1.png",
+      "ac": "Yes"
+    },
+    {
+     "id": 4,
+      "name": "Chevrolet Malibu",
+      "price": 24,
+      "mileage": 28,
+      "model": "2022",
+      "color": "White",
+      "image": "https://file.kelleybluebookimages.com/kbb/base/evox/CP/14792/2022-Chevrolet-Malibu-front_14792_032_1824x751_GAZ_cropped.png",
+      "ac": "Yes"
+    },
+    {
+     "id": 5,
+      "name": "Nissan Altima",
+      "price": 23,
+      "mileage": 27,
+      "model": "2024",
+      "color": "Silver",
+      "image": "http://www.autoasesor.com/nissan/imagenes/altima.png",
+      "ac": "Yes"
+    },
+    {
+     "id": 6,
+      "name": "BMW 3 Series",
+      "price": 45,
+      "mileage": 25,
+      "model": "2023",
+      "color": "Gray",
+      "image": "https://get-moba.com/app/uploads/2023/04/Serie3ok.png",
+      "ac": "Yes"
+    },
+    {
+     "id": 7,
+      "name": "Audi A4",
+      "price": 50,
+      "mileage": 23,
+      "model": "2023",
+      "color": "Black",
+      "image": "https://i.pinimg.com/originals/73/09/7a/73097a07ed9d8becca73dc192967c1a8.png",
+      "ac": "Yes"
+    },
+    
+    {
+     "id": 8,
+      "name": "Hyundai Sonata",
+      "price": 27,
+      "mileage": 30,
+      "model": "2023",
+      "color": "Red",
+      "image": "https://di-uploads-pod28.dealerinspire.com/bentleyhyundai/uploads/2020/02/2020-sonata-sel.png",
+      "ac": "Yes"
+    }
+    
+]
+

@@ -1,0 +1,17 @@
+.footer-logo{
+    height:100px;
+    width:100px;
+}
+.footer-nav{
+    list-style-type: none;
+}
+.link{
+    text-decoration: none;
+    color:black;
+    text-transform: capitalize;
+    font-size: 15px;
+    cursor: pointer;
+}
+.footer-nav:hover{
+    font-weight: 500;
+}

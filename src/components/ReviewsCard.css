@@ -1,0 +1,10 @@
+.reviewcard{
+    height:300px;
+    min-width: 250px;
+    margin:4px 20px
+}
+.client-img{
+    border-radius: 50%;
+    height:150px;
+    width:150px;
+}

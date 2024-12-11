@@ -1,0 +1,11 @@
+
+.search-car{
+    position: relative;
+    top:-30px;
+}
+@media (min-width: 768px) {
+    .homepage img{
+        height:90vh;
+        width:100%;
+    }
+}

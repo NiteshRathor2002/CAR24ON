@@ -1,0 +1,32 @@
+.reviews-container{
+    position: relative;
+    overflow: hidden;
+    padding:25px;
+}
+.reviews-carousel{
+    display: flex;
+    overflow-x: hidden;
+    scroll-behavior: smooth;
+}
+  .less,.greater{
+    border:none;
+ background-color: transparent;
+    font-weight: 900;
+    height:100%;
+    position: absolute ;
+    top:0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   
+  }
+  .greater{
+right:0;
+  }
+ .less p,.greater p{
+    background-color: rgb(18, 93, 224);
+    color:#fff;
+    font-size: 20px;
+    text-align: center;
+    padding:8px;
+ }

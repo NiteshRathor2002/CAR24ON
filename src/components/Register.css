@@ -1,0 +1,32 @@
+.form-container{
+ width:500px;
+   padding:10px;
+   box-sizing: border-box;
+   border:2px solid #ccc;
+}
+.input-group{
+   padding-left: 10px;
+   font-size: 18px;
+   border-radius: 10px;
+   border: 1px solid #ccc;
+}
+.log-btn-active{
+   background-color: rgb(38, 38, 214);
+   color:white;
+   
+}
+#btns,#btnss{
+   font-size: 18px;
+   border-radius: 10px; 
+   width:47%;
+   margin: 0 3px;
+   transition: all 0.1s;
+}
+.anchor{
+   cursor:pointer ;
+}
+@media screen and (max-width:440px){
+   .form{
+      width:300px;
+   }
+}
