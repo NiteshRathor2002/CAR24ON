@@ -8,8 +8,8 @@ function Footer() {
  <div className="container-fluid p-2 bg-light">
        <div className='container'>
       <div className='text-center m-4'> <img src={logo} alt='img' className='footer-logo  '/></div>
-      <div className='row'>
-        <div className='col-lg-3'>
+      <div className='d-sm-flex flex-sm-column d-md-flex flex-md-row justify-content-md-between'>
+        <div className=''>
             <ul className=''>
                 <h4 className='text-primary '>Company</h4>
                 <li className='footer-nav'><Link to=''className='link'>home</Link></li>
@@ -19,7 +19,7 @@ function Footer() {
                 <li className='footer-nav'><Link to=''className='link'>Services</Link></li>
             </ul> 
        </div>
-       <div className='col-lg-3'>
+       <div className=''>
             <ul className='text-primary'>
                 <h4 className=''>Policies</h4>
                 <li className='footer-nav'><Link to=''className='link'>Privacy Policies</Link></li>
@@ -29,7 +29,7 @@ function Footer() {
                 <li className='footer-nav'><Link to=''className='link'>Services</Link></li>
             </ul> 
        </div>
-       <div className='col-lg-3'>
+       <div className=''>
             <ul className='text-primary'>
                 <h4 className=''>Help</h4>
                 <li className='footer-nav'><Link to=''className='link'>Support</Link></li>
@@ -37,7 +37,7 @@ function Footer() {
                 <li className='footer-nav'><Link to=''className='link'>Refund timelines</Link></li>
             </ul> 
        </div>
-       <div className='col-lg-3'>
+       <div className=''>
        
             <ul className='text-primary '>
             <h4 className='text-primary'>Social Links</h4>

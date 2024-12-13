@@ -15,7 +15,7 @@ function Driver() {
             </div>
               <div className='col-lg-6 d-flex justify-content-center align-items-center flex-column'>
                 <h2 className='text-light mb-3'>Do You Want To Earn With Us?So Don't Be Late.</h2>
-                <button className='btn btn-success'>Become a Driver</button>
+                <button className='btn btn-success mb-3'>Become a Driver</button>
               </div>
         </div>
 

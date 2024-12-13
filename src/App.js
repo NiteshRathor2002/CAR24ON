@@ -8,6 +8,7 @@ import Rent from './components/Rent.js';
 import Navoffers from './components/Navoffers.js';
 import Contact from './components/Contact.js';
 import NavServices from './components/NavServices.js';
+import Success from './components/Success.js';
 
 function App() {
   return (
@@ -16,16 +17,15 @@ function App() {
   <Header/>
   
 <Routes>
-  <Route exact path="/" Component={Home} ></Route>
-  <Route exact path="/Register" Component={Register} ></Route>
-  <Route exact path="/Navabout" Component={Navabout} ></Route>
-  <Route exact path="/Contact" Component={Contact} ></Route>
-  <Route exact path="/Rent/:id" Component={Rent} ></Route>    {/* The `/Rent/:id` route renders the `Rent.js` component and passes the car ID as a parameter. */}
-  <Route exact path="/NavServices" Component={NavServices} ></Route>
-  <Route exact path="/Navoffers" Component={Navoffers} ></Route>
-
-
-
+  <Route  path="/" element={<Home />} ></Route>
+  <Route  path="/Register" Component={Register} ></Route>
+  <Route  path="/Navabout" Component={Navabout} ></Route>
+  <Route  path="/Contact" Component={Contact} ></Route>
+  <Route  path="/Rent/:id" Component={Rent} ></Route>    {/* The `/Rent/:id` route renders the `Rent.js` component and passes the car ID as a parameter. */}
+  <Route  path="/NavServices" Component={NavServices} ></Route>
+  <Route  path="/Navoffers" Component={Navoffers} ></Route>
+  <Route path="/Success" element={<Success />} />
+  <Route path="/Navoffers" element={<Navoffers />} />
 
 </Routes>
 </Router>

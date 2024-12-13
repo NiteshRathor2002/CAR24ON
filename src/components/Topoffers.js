@@ -27,24 +27,24 @@ function Topoffers() {
     <div className="container mt-5">
        <h4 className="text-center text-primary">Come with</h4>
        <h3 className="text-center mb-5">Hot Offers</h3>
-       <div className="container d-flex flex-wrap justify-content-between  align-items-center gap-2 mb-3">
+       <div className="container d-flex flex-wrap justify-content-center   gap-2 mb-3">
         {records.map((records)=>
-        <div className="card p-3 d-flex flex-column justify-content-center align-items-center"key={records.id} style={{width:"18rem",height:"25rem"}}>
-         <div className="w-75 p-2"> <img src={records.image} alt={records.name} className='w-100 '/></div>
-          <div class="card-body p-2">
+        <div className="card  text-center "key={records.id} style={{maxWidth:"18rem",minWidth:"15rem"}}>
+         <div className=" "> <img src={records.image} alt={records.name} className='card-image mt-2'/></div>
+          <div class="card-body ">
     <h5 class="card-title text-primary">{records.name}</h5>
     <p class="card-text"><strong>Price: $</strong>{records.price} /Per Day</p>
     <p class="card-text"><strong>model: </strong>{records.model}</p>
     <p class="card-text"><strong>Color: </strong>{records.color}</p>
     <p class="card-text"><strong>Mileage: </strong>{records.mileage}KM</p>
     <p class="card-text"><strong>AC :</strong>{records.ac}</p>
-    <button className='btn btn-primary w-100'>
+   <button className='btn btn-primary w-50 '>
                   <Link to={`/Rent/${records.id}`} className='text-decoration-none text-light '>Details</Link>
-                </button>
+                </button></div>
 
 
     
-  </div>
+ 
         </div>
         )}
        </div>

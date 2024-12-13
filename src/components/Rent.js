@@ -66,7 +66,12 @@ function Rent() {
             handler: function (response) {
                 alert("Payment successful! Payment ID: " + response.razorpay_payment_id);
                 console.log(response);
-                navigate('/success'); // Redirect to a success page or another route
+                navigate('/Success', {
+                    state: {
+                        paymentId: response.razorpay_payment_id,
+                        carDetails: carDetails,
+                    },
+                });// Redirect to a success page or another route
             },
             prefill: {
                 name: `${values.firstname} ${values.lastname}`,

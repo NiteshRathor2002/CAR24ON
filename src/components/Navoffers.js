@@ -11,8 +11,8 @@ function Navoffers() {
 
   return (
     <div className='container-fluid'>
-      <div className='row'>
-        <div className='col-lg-2  mt-5 d-flex align-items-center flex-column '>
+      <div className='d-lg-flex mt-5 '>
+        <div className='  d-flex align-items-center flex-column '>
           <h3 className='text-primary'>Filters Cars:</h3>
           <div className='mb-3 '>
             <p className='fw-bold'>Company:</p>
@@ -53,7 +53,7 @@ function Navoffers() {
             </select>
           </div>
         </div>
-        <div className='col-lg-10 '>
+        <div className=' '>
           {/* Pass filters as props to the Offers component */}
           <Offers company={company} color={color} ac={ac} />
         </div>

@@ -28,21 +28,20 @@ function Offers({ company, color, ac }) {
 
   return (
     <div className="container ">
-      <div className="offers-div d-flex flex-wrap justify-content-center">
+      <div className="offers-div d-flex flex-wrap justify-content-center gap-2">
         {filteredRecords.map((data) => (
-          <div key={data.id} className="offer-item cars-offers rounded-2 p-3 m-3">
+          <div key={data.id} className="offer-item card p-2 text-center"style={{maxWidth:"18rem",minWidth:"15rem"}}>
             <div className="h-25">
-              <img src={data.image} alt={data.name} className="cars-img h-100" />
+              <img src={data.image} alt={data.name} className="card-image mt-2" />
             </div>
             <div>
               <h4 className='text-primary'>{data.name}</h4>
               <p><span className='fw-bold'>Price: $</span>{data.price}/per Day</p>
               <p><span className='fw-bold'>Color:</span> {data.color}</p>
               <p><span className='fw-bold'>AC:</span> {data.ac ? 'Yes' : 'No'}</p>
-              <div className='row'>
-                <div className='col-6'><p><span className='fw-bold'>Model:</span> {data.model}</p></div>
-                <div className='col-6'><p><span className='fw-bold'>Average:</span> {data.mileage} KM</p></div>
-              </div>
+              <p><span className='fw-bold'>Model:</span> {data.model}</p>
+              <p><span className='fw-bold'>Average:</span> {data.mileage} KM</p>
+             
               <div className='d-flex justify-content-center '>
                 
                 <button className='btn btn-success w-50'>

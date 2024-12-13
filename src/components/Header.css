@@ -11,7 +11,8 @@
 }
 @media screen and (max-width:420px) {
   .call{
-    font-size: 15.5px;
+    font-size: 15.7px;
+    padding: 3px 0;
     
   }
 }

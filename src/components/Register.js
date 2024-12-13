@@ -9,7 +9,7 @@ function Register() {
   return (
     <>
       <div className="container-fluid d-flex justify-content-center align-items-center mt-5 mb-5">
-        <div className="form-container d-flex justify-content-center flex-column">
+        <div className="form-container d-flex justify-content-center flex-column rounded-3">
           {/* Login and Signup Buttons */}
           <div className="p-3 d-flex">
             <button

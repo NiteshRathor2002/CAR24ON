@@ -31,7 +31,7 @@ function Services() {
         <h4 className=''>Many Pickup Locations</h4>
         <p className=' text-black-50'>Lorem ipsum dolor sit amet consectetur adipisicing elit.
              Praesentium laborum dolorem amet vitae veritatis excepturi totam asperiores modi quas numquam?</p></div> 
-             <div className=' card p-2 '><i class="bi bi-airplane-engines-fill text-primary fs-3 mb-2"></i>
+             <div className=' card p-2 mb-2'><i class="bi bi-airplane-engines-fill text-primary fs-3 mb-2"></i>
         <h4 className=''>Airpot Transfer</h4>
         <p className=' text-black-50'>Lorem ipsum dolor sit amet consectetur adipisicing elit.
              Praesentium laborum dolorem amet vitae veritatis excepturi totam asperiores modi quas numquam?</p></div> 

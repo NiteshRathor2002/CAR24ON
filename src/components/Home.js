@@ -24,7 +24,7 @@ function Home() {
         <div className="container bg-light search-car border border-secondary rounded-3 ">
           <div className="row">
             <div className="col-lg-4 p-0">
-              <img src={choosecar} alt="Homes" className="img-fluid ms-lg-1 mt-sm-1" />
+              <img src={choosecar} alt="Homes" className="img-fluid ms-lg-1 mt-sm-1 rounded-3" />
               
             </div>
             <div className="col-lg-8 d-flex justify-content-center align-items-center mt-3 mb-2 ">
