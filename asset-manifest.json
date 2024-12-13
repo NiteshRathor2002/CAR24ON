@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/CAR24ON/static/css/main.dd9a8e4d.css",
-    "main.js": "/CAR24ON/static/js/main.82575365.js",
+    "main.css": "/CAR24ON/static/css/main.b7dec8d6.css",
+    "main.js": "/CAR24ON/static/js/main.c1745d14.js",
     "static/js/453.656b21da.chunk.js": "/CAR24ON/static/js/453.656b21da.chunk.js",
     "static/media/img3.png": "/CAR24ON/static/media/img3.5a18f1702d829e92845d.png",
     "static/media/img2.jpg": "/CAR24ON/static/media/img2.94bee1e1a076f0407a90.jpg",
@@ -13,12 +13,12 @@
     "static/media/img4.jpg": "/CAR24ON/static/media/img4.e27c597f32ed18f4d7f7.jpg",
     "static/media/toyoto.png": "/CAR24ON/static/media/toyoto.b11f81de13f08598307e.png",
     "index.html": "/CAR24ON/index.html",
-    "main.dd9a8e4d.css.map": "/CAR24ON/static/css/main.dd9a8e4d.css.map",
-    "main.82575365.js.map": "/CAR24ON/static/js/main.82575365.js.map",
+    "main.b7dec8d6.css.map": "/CAR24ON/static/css/main.b7dec8d6.css.map",
+    "main.c1745d14.js.map": "/CAR24ON/static/js/main.c1745d14.js.map",
     "453.656b21da.chunk.js.map": "/CAR24ON/static/js/453.656b21da.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.dd9a8e4d.css",
-    "static/js/main.82575365.js"
+    "static/css/main.b7dec8d6.css",
+    "static/js/main.c1745d14.js"
   ]
 }
